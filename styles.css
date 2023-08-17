@@ -1,14 +1,24 @@
 .container {
-	display: flex;
-	flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-h1{
-	color: red;
-	background-color: white;
-	text-align: center;
-	border: 3px solid black;
-	width: 500px;
-	justify-content: center;
+body {
+  margin-top: 60px;
+  text-align: center;
+  display: block;
+}
+.logoSSB {
+  margin: 5px 10px;
+  padding: auto;
+  max-width: 100%;
+}
 
+.bgPic {
+  margin: 10px auto;
+  border-radius: 15px;
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
 }
