@@ -23,3 +23,12 @@ body {
   display: flex;
   justify-content: center;
 }
+
+@media (max-width: 576px) {
+  .logoSSB {
+    width: 220px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+  }
+}
