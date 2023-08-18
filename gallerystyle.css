@@ -27,8 +27,8 @@ body {
 
 @media (max-width: 576px) {
   .pageLink {
-    width: 220px;
-    height: 160px;
+    width: 450px;
+    height: auto;
     text-align: center;
   }
 
