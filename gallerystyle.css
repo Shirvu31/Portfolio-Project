@@ -6,20 +6,19 @@
 body {
   margin-top: 60px;
   text-align: center;
-  display: block;
-}
 
-.logoSSB {
-  margin: 5px 5px;
-  width: 250px;
-  height: 250px;
-  border-radius: 4px;
-}
+  .logoSSB {
+    margin: 5px 5px;
+    width: 250px;
+    height: 250px;
+    border-radius: 4px;
+  }
 
-img {
-  margin: 5px;
-  align-content: center;
-  transition: all 1s;
+  .pageLink {
+    transition: all 1s;
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .pageLink:hover {
@@ -30,8 +29,7 @@ img {
   .pageLink {
     width: 220px;
     height: 160px;
-    display: flex;
-    justify-content: center;
+    text-align: center;
   }
 
   .logoSSB {
