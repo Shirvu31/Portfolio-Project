@@ -24,6 +24,11 @@ body {
   justify-content: center;
 }
 
+h2 {
+  margin: 5px 3px;
+  font-size: medium;
+}
+
 @media (max-width: 576px) {
   .logoSSB {
     width: 120px;
