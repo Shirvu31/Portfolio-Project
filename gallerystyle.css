@@ -21,3 +21,16 @@ img {
   align-content: center;
   transition: all 1s;
 }
+
+.pageLink:hover {
+  transform: scale(1.2);
+}
+
+@media (max-width: 576px) {
+  .pageLink {
+    width: 220px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+  }
+}
