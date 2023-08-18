@@ -26,8 +26,8 @@ body {
 
 @media (max-width: 576px) {
   .logoSSB {
-    width: 220px;
-    height: 160px;
-    display: block;
+    width: 120px;
+    height: 120px;
+    text-align: center;
   }
 }
