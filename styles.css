@@ -36,4 +36,11 @@ h2 {
     height: 120px;
     text-align: center;
   }
+
+  .bgPic {
+    margin: 10px 5px;
+    border-radius: 5px;
+    width: 495px;
+    height: auto;
+  }
 }
