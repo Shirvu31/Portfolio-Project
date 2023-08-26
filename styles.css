@@ -30,6 +30,10 @@ h2 {
   font-size: medium;
 }
 
+.founderPic {
+  border-radius: 100px;
+}
+
 @media (max-width: 576px) {
   .logoSSB {
     width: 120px;
